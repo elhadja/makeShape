@@ -1,5 +1,3 @@
-
-Cette application a été réalisée dans le cadre d'un projet en architecture logicielle portant sur les design patterns
 # Description
 On désire créer un logiciel de dessin vectoriel dont le principe est de créer de nouveaux dessins en utilisant/modifiant/combinant des dessins existants. Plus précisément, nous voulons pouvoir:
   - Sélectionner un objet depuis un menu graphique (toolbar), et le positionner sur notre dessin – (whiteboard) en utilisant le glisser-déposer (drag and drop).
@@ -10,6 +8,10 @@ On désire créer un logiciel de dessin vectoriel dont le principe est de créer
   - Annuler ou refaire une opération.
   - Sauvegarder un document et charger un document.
   - Sauvegarder l’état du logiciel (toolbar) et le recharger au démarrage
+# technologies utilisées
+  - Java(utilisation de 6 designs patterns décrits dans le "GOF")
+  - JavaFX
+  - JUnit
 # Participants
  - Elhadj Amadou BAH
  - Forian Simba
